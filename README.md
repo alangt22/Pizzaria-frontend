@@ -1,6 +1,6 @@
 # Frontend - Sujeito Pizza
 
-[![Deploy](https://img.shields.io/badge/Deploy-Vercel-000)](https://pizzaria-web-teal.vercel.app/)
+[![Deploy](https://img.shields.io/badge/Deploy-Vercel-000)] https://pizzaria-web-teal.vercel.app/
 
 Dashboard administrativo web para gerenciamento de pizzaria.
 
@@ -18,7 +18,7 @@ Dashboard administrativo web para gerenciamento de pizzaria.
 - **Ícones**: Lucide React
 - **Notificações**: Sonner
 - **Gerenciamento de Estado**: Context API + Cookies
-- **部署**: Vercel
+- **Deploy**: Vercel
 
 ## Funcionalidades
 
